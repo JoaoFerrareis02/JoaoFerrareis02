@@ -1,25 +1,63 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is João Victor Ferrareis Ribeiro and my nickname is "JoaoFerrareis02"!
-
-<div>
-<a href="https://github.com/JoaoFerrareis02">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFerrareis02&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoFerrareis02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-ferrareis-ribeiro-a1b28424b/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="joaovito2002@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Outlook Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=JoaoFerrareis02&style=flat-square&color=blue" alt=""/>
+  <h1>
+  👋 Hello! Welcome to my Github profile
+  </h1>
+  <h2>
+    My name is João Victor Ferrareis Ribeiro and my nickname is "JoaoFerrareis02"!
+  </h2>
 </div>
 
-## Tools and Technologies
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-<!-- loading="lazy" width="40" height="40" -->
+---
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" loading="lazy" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" loading="lazy" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" loading="lazy" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" loading="lazy" width="50" height="50"/>
+### 👨‍💻 About Me :
 
-## I'm learning
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" loading="lazy" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" loading="lazy" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" loading="lazy" width="50" height="50"/>
+- 🔭 I’m working as a Web Developer and contributing to frontend and backend for building web applications.
 
-## Contacts:
+- 🌱 Exploring Technical Content Writing.
+
+- ⚡ In my free time, I watch programming videos and solve problems I find on sites like HackerRank.
+
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-ferrareis-ribeiro-a1b28424b/)
+
+
+### 🛠️ Language and Tools :
 
 <div>
-<a href = "mailto:joaovito2002@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-ferrareis-ribeiro-a1b28424b" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" **alt="Visual Studio Code" width="50" height="50"/>
+</div>
+
+---
+
+### 🔥 My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoaoFerrareis02&theme=dark&border_radius=10&locale=en&date_format=j%2Fn%5B%2FY%5D&card_width=500)](https://git.io/streak-stats) &emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFerrareis02&layout=compact&theme=dark&show_icons=true&border_radius=10&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
