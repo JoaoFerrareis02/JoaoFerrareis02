@@ -1,52 +1,50 @@
-# 👋 Olá, eu sou o João Victor Ferrareis Ribeiro
+# Seja bem-vindo! Puxa uma cadeira e pega uma xícara de café ☕
 
-Bem-vindo ao meu perfil do GitHub! 🚀  
-Aqui você vai encontrar projetos, estudos e experimentos nas áreas de **desenvolvimento web, programação e tecnologia**.  
+Sou **João Victor Ferrareis**, **desenvolvedor ABAP** com experiência em sustentação e melhorias em **SAP S/4HANA e ECC**.  
 
----
+Atuo na criação e manutenção de **programas, relatórios ALV, SmartForms, Module Pool, integrações via BAPI, RFC e OData**.  
 
-## 👨‍💻 Sobre mim  
-- 🎓 Estudante/Desenvolvedor focado em **JavaScript, Python, ABAP e Fiori**  
-- 📚 Apaixonado por aprender novas tecnologias e boas práticas de programação  
-- 🛠️ Atualmente explorando **SAP UI5, ABAP, React e Node.js**  
-- 💡 Interesses: **automação, web development, cloud e boas práticas de código**  
+Tenho vivência em **aplicação de notas, batch input, BADIs, User Exits** e elaboração de **especificações técnicas**.  
 
----
+🔧 **Stack ABAP**: FI · MM · SD · CO · HCM · BAPI · RFC · ALV · SmartForms · Module Pool · BADIs · OData · SAP S/4HANA · SAP ECC  
 
-## 🚀 Tecnologias e Ferramentas  
+<div style="display: inline_block"><br>
+  <!-- SAP / Backend -->
+  <img align="center" alt="SAP" height="30" width="40" src="https://img.icons8.com/color/48/sap.png" />
 
-💻 **Linguagens**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)  
-![ABAP](https://img.shields.io/badge/-ABAP-00549C?logo=sap&logoColor=fff&style=for-the-badge)  
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=database&logoColor=fff&style=for-the-badge)  
+  <!-- Front-End -->
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 
-🛠️ **Frameworks & Ferramentas**  
-![SAP UI5](https://img.shields.io/badge/-SAP%20UI5-0FAAFF?logo=sap&logoColor=fff&style=for-the-badge)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)  
-
-📊 **Banco de Dados**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  
-
-☁️ **Outros**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)  
-![SAP](https://img.shields.io/badge/-SAP-0FAAFF?logo=sap&logoColor=fff&style=for-the-badge)  
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6F00?logo=api&logoColor=fff&style=for-the-badge)  
+  <!-- Backend / Infra -->
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+</div>
 
 ---
 
-## 📈 Estatísticas do GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoFerrareis02&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFerrareis02&layout=compact&theme=dracula)  
+<div align="center">
+  <a href="https://github.com/JoaoFerrareis02">
+    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=JoaoFerrareis02&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFerrareis02&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</div>
 
 ---
 
-## 🌐 Onde me encontrar  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/joao-victor-ferrareis/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:joaovito2002@gmail.com)  
+##  Onde me encontrar
+
+<a href="https://www.linkedin.com/in/joao-victor-ferrareis" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:joaovito2002@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red"/>
+</a>
 
 ---
 
