@@ -29,8 +29,8 @@ Tenho vivência em **aplicação de notas, batch input, BADIs, User Exits** e el
 
 <div align="center">
   <a href="https://github.com/JoaoFerrareis02">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=JoaoFerrareis02&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFerrareis02&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoFerrareis02&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFerrareis02&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
 
